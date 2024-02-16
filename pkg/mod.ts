@@ -49,3 +49,4 @@ class Database {
     await this.saveData({});
   }
 }
+export { Database }
