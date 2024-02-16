@@ -1,0 +1,14 @@
+{
+  "name": "brilliant",
+  "version": "1.0.0",
+  "description": "Self-sufficient and lightweight Database.",
+  "main": "main.ts",
+  "scripts": {
+    "start": "deno run ./pkg/main.ts",
+    "test": "deno test"
+  },
+  "deno": {
+    "runtime": "deno",
+    "version": "1.18.2"
+  },
+}
